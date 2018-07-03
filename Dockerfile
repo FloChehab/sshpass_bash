@@ -5,4 +5,5 @@ RUN apk --update --no-cache add \
         sshpass \
         openssh \
         rsync \
-        bash
+        bash \
+	wget
